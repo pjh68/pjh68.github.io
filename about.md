@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-# Who is Peter Hempsall
+# Who is Peter Hempsall?
 I am the CTO of Deloitte Ventures, and lead our Consulting business's Product Engineering team. I was part of the founding team of Deloitte Ventures back in 2015. 
 
 Whilst the writing on this blog are my views and not my employers, there is obviously a lot of overlap with my world of work. It may give you an idea of the type of team we are, what we care about and how we work.  
