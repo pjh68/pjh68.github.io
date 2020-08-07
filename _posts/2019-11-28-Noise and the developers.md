@@ -68,7 +68,7 @@ When it gets bad, people take counter-measures into their own hands: working lat
 
 I still maintain that headphones are a physical/cultural equivalent of a code smell. Yes, there are times it is best to block the world out and make a very deliberate signal of DND (alas, headphones aren’t universally recognized as this).
 
-Of course there are exception. Individual preference may vary. Some people are way more sensitive to external stimulus than others, or mayhave tinitus. So I’m not proposing a ban on headphones. But if you *have* to wear them to get *anything* done then there are probably some major acoustic and/or cultural challenges with your work environment.
+Of course there are exception. Individual preference may vary. Some people are way more sensitive to external stimulus than others, or may have tinnitus. So I’m not proposing a ban on headphones. But if you *have* to wear them to get *anything* done then there are probably some major acoustic and/or cultural challenges with your work environment.
 
 I would argue that if everyone is wearing headphones then you’ve lost the benefits of the office. Consider going fully remote.
 
