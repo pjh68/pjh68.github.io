@@ -8,6 +8,7 @@ minima:
   date_format: "%d %B %Y"
 
 header_pages:
+  - projects.md
   - contribute.md
   - about.md
 
@@ -18,4 +19,7 @@ stackoverflow_username: pjh68
 
 show_excerpts: true
 
+collections:
+  projects:
+    output: true
 
