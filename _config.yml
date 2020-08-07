@@ -1,1 +1,21 @@
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+theme: minima
+#name: moneybbq.com
+title: moneybbq.com
+
+
+minima:
+  date_format: "%d %B %Y"
+
+header_pages:
+  - contribute.md
+  - about.md
+
+twitter_username: pjh68
+github_username: pjh68
+stackoverflow_username: pjh68
+
+
+show_excerpts: true
+
+
