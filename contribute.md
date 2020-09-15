@@ -2,7 +2,7 @@
 title: "Contribute"
 ---
 
-This site is build on github pages. This brings the advantage of having familiar collaboration tooling built right in - issues, pull requests, etc. 
+This site is build on [github pages](https://github.com/pjh68/pjh68.github.io). This brings the advantage of having familiar collaboration tooling built right in - issues, pull requests, etc. 
 
 This is a bit of an experiment - let's see how it works.
 
