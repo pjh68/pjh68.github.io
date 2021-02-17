@@ -25,4 +25,6 @@ collections:
 
 plugins:
   - jekyll-feed
-  
+
+feed:
+  excerpt_only: true
