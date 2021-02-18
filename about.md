@@ -5,7 +5,7 @@ title: "About"
 # Who is Peter Hempsall?
 I am the CTO of Deloitte Ventures, and lead our Consulting business's Product Engineering team. I was part of the founding team of Deloitte Ventures back in 2015. 
 
-Whilst the writing on this blog are my views and not my employers, there is obviously a lot of overlap with my world of work. It may give you an idea of the type of team we are, what we care about and how we work.  
+Whilst the writing on this blog reflects my views and not my employers, there is obviously a lot of overlap with my world of work. It may give you an idea of the type of team we are, what we care about and how we work.  
 
 # Why MoneyBBQ?
 This blog mostly focuses on the topics of corporate innovation, technology and product engineering.
@@ -33,6 +33,6 @@ So why use this as the name of my blog? Well, it's short and the domain was avai
 
 
 # A collaborative experiment
-This posts of this blog are always the result of conversations. Often conversations and arguments that have been repeated and refined over time, with many people. They should therefore be seen as a snapshot of an ongoing discussion. And writing them down and sticking them on the web is not the end of that discussion.
+The posts on this blog are always the result of conversations. Often conversations and arguments that have been repeated and refined over time, with many people. They should therefore be seen as a snapshot of an ongoing discussion. And writing them down and sticking them on the web is not the end of that discussion.
 
 Particularly on technical topics, I welcome discussion and debate. If I can facilitate that, or present multiple viewpoints, then I'll try to do that. Please see the [Contribute page](/contribute)
