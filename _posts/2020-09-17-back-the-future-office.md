@@ -37,7 +37,7 @@ Both all-in-person and all-remote regimes provide an optimal maxima, but with di
 
 In both cases, we put significant effort into a) optimising for the regime we’re working in; b) overcoming the weaknesses / inherent biases in that regime.
 
-In normal circumstances, all-remote teams periodically meet in person (for example, the almost hidden reference to “a few times a year all our employees fly in for a company-wide gathering” in the book REMOTE: Office Not Required | Basecamp)
+In normal circumstances, all-remote teams periodically meet in person (for example, the almost hidden reference to “a few times a year all our employees fly in for a company-wide gathering” in the book REMOTE: Office Not Required by Basecamp)
 
 Mixed regime teams (and their experiences pre-lockdown) have, to some extent, the worst of both worlds. Which is why they often co-located periodically.
 
