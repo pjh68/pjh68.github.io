@@ -10,7 +10,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 #gem "jekyll-theme-midnight"
 
 
-gem "github-pages", "~> 211", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-feed"
 
 
