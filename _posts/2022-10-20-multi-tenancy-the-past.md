@@ -55,7 +55,7 @@ For virtual machines (e.g. AWS EC2), noisy neighbours have been a common complai
 
 
 ## Summary
-This history takes up to around 2014... we have stopped just short of the next major technical milestone: the leap from reproducable builds to infrastructure-as-code and reproduceable environments. 
+This history takes us up to around 2014... we have stopped just short of the next major technical milestone: the leap from reproducible builds to infrastructure-as-code and reproducible environments. 
 
 Part 2 will cover what this leap enables... 
 
