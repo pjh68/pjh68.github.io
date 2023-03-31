@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "New Book: Be Less Shit - No Excuses, No Bullshit: The Brutally Honest Coaching Method"
+title: "New Business Book 'Be Less Shit' Provides Fresh Perspective on Coaching"
 category: "engineering-management"
 tags:  people work coaching
 author: "Peter Hempsall"
 contributors: ""
+excerpt_separator: <!--more-->
 ---
 
-# New Business Book "Be Less Shit" Provides Fresh Perspective on Coaching
-
-Cath and Peter Hempsall are excited to announce the launch of their new business book "Be Less Shit" - No Excuses, No Bullshit: The Brutally Honest Coaching Method, comming soon to Amazon, Barnes & Noble and all airport bookshops.
+Cath and Peter Hempsall are excited to announce the launch of their new business book **Be Less Shit** - _No Excuses, No Bullshit: The Brutally Honest Coaching Method_, comming soon to Amazon, Barnes & Noble and all airport bookshops.
 
 Drawing on their extensive experience as a coaches and business leaders, Cath and Peter offer a fresh and engaging approach to coaching that is both practical and insightful. Unlike other coaching books that focus on directive approaches, "Be Less Shit" encourages a more collaborative and empathetic approach to coaching.
-
+<!--more-->
 The book's title, "Be Less Shit", may be provocative, but it reflects the author's belief that we all have room for improvement, and that coaching is an essential tool for unlocking our potential. Drawing on real-world examples, Cath and Peter demonstrate how even small changes in coaching style can have a significant impact on employee engagement, productivity, and overall business success.
 
 "Be Less Shit" is the perfect resource for managers, leaders, and anyone who wants to improve their coaching skills. It provides a practical framework for effective coaching and includes actionable tips and strategies that readers can implement right away. With its engaging writing style and real-world examples, "Be Less Shit" is a must-read for anyone who wants to improve their coaching skills and drive better business results.
@@ -43,3 +42,15 @@ The "Be Less Shit" approach is rooted in the belief that growth and improvement 
 Overall, the "Be Less Shit" approach has its roots in a community of climbers and coaches who were willing to take a different approach to achieving success. By focusing on growth and self-reflection, they were able to create a more effective and fulfilling path to success, which has since been adopted by many others in various areas of life.
 
 
+# How does the "Be Less Shit" approach work?
+
+"Be Less Shit" is a coaching approach that emphasizes collaboration, empathy, and growth. It's designed to help coaches build trust with their clients, foster open communication, and work together to achieve goals.
+
+The approach includes several key principles:
+
+1. **Meet people where they're at**: Rather than imposing a rigid coaching plan, "Be Less Shit" encourages coaches to adapt their approach to the unique needs and goals of their clients.
+2. **Use radical candor**: "Be Less Shit" encourages coaches to be honest and direct with their clients, while also being empathetic and supportive. This approach helps build trust and fosters a collaborative environment.
+3. **Focus on growth, not perfection**: "Be Less Shit" encourages coaches to help their clients identify and work towards achievable goals, rather than striving for perfection. This helps create a sense of progress and momentum, which can be a powerful motivator.
+4. **Emphasize self-reflection**: "Be Less Shit" encourages clients to reflect on their own strengths and weaknesses, and to take ownership of their own growth and development. Coaches can help facilitate this process by asking thought-provoking questions and providing guidance and support.
+
+Overall, "Be Less Shit" is a flexible and collaborative coaching approach that is designed to help clients achieve their goals in a supportive and empowering environment. By focusing on growth, self-reflection, and radical candor, coaches can help their clients unlock their full potential and achieve lasting success.

@@ -2,7 +2,7 @@
 theme: minima
 #name: moneybbq.com
 title: moneybbq.com
-
+repository: pjh68/pjh68.github.io
 
 minima:
   date_format: "%d %B %Y"
