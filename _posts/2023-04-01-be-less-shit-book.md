@@ -3,7 +3,7 @@ layout: post
 title: "New Business Book 'Be Less Shit' Provides Fresh Perspective on Coaching"
 category: "engineering-management"
 tags:  people work coaching
-author: "Peter Hempsall"
+author: "The Get Real Group"
 contributors: ""
 excerpt_separator: <!--more-->
 ---
