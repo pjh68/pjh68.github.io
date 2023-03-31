@@ -8,11 +8,11 @@ contributors: ""
 excerpt_separator: <!--more-->
 ---
 
-Cath and Peter Hempsall are excited to announce the launch of their new business book **Be Less Shit** - _No Excuses, No Bullshit: The Brutally Honest Coaching Method_, comming soon to Amazon, Barnes & Noble and all airport bookshops.
+The Get Real Group are excited to announce the launch of their new business book **Be Less Shit** - _No Excuses, No Bullshit: The Brutally Honest Coaching Method_, comming soon to Amazon, Barnes & Noble and all airport bookshops.
 
-Drawing on their extensive experience as a coaches and business leaders, Cath and Peter offer a fresh and engaging approach to coaching that is both practical and insightful. Unlike other coaching books that focus on directive approaches, "Be Less Shit" encourages a more collaborative and empathetic approach to coaching.
+Drawing on their extensive experience as a coaches and business leaders, The Get Real Group offer a fresh and engaging approach to coaching that is both practical and insightful. Unlike other coaching books that focus on directive approaches, "Be Less Shit" encourages a more collaborative and empathetic approach to coaching.
 <!--more-->
-The book's title, "Be Less Shit", may be provocative, but it reflects the author's belief that we all have room for improvement, and that coaching is an essential tool for unlocking our potential. Drawing on real-world examples, Cath and Peter demonstrate how even small changes in coaching style can have a significant impact on employee engagement, productivity, and overall business success.
+The book's title, "Be Less Shit", may be provocative, but it reflects the author's belief that we all have room for improvement, and that coaching is an essential tool for unlocking our potential. Drawing on real-world examples, The Get Real Group demonstrate how even small changes in coaching style can have a significant impact on employee engagement, productivity, and overall business success.
 
 "Be Less Shit" is the perfect resource for managers, leaders, and anyone who wants to improve their coaching skills. It provides a practical framework for effective coaching and includes actionable tips and strategies that readers can implement right away. With its engaging writing style and real-world examples, "Be Less Shit" is a must-read for anyone who wants to improve their coaching skills and drive better business results.
 
@@ -20,15 +20,15 @@ The book's title, "Be Less Shit", may be provocative, but it reflects the author
 
 # What others are saying about "Be Less Shit"
 
-"I've read a lot of coaching books over the years, but 'Be Less Shit' really stands out. It's like Radical Candor but less aggressive and more collaborative. The practical tips and examples are incredibly helpful, and the writing style is engaging and easy to read." - John S., Manager
+"I've read a lot of coaching books over the years, but 'Be Less Shit' really stands out. It's like Radical Candor but less aggressive and more collaborative. The practical tips and examples are incredibly helpful, and the writing style is engaging and easy to read." - Andy E., Outdoor Tutor
 
-"I wish I had read this book sooner! It's such a refreshing take on coaching, and the title definitely caught my attention. The author's approach is all about empathy, collaboration, and helping people unlock their potential. I've already started implementing some of the tips and strategies, and I'm already seeing a difference in how my team is responding." - Sarah T., Team Leader
+"I wish I had read this book sooner! It's such a refreshing take on coaching, and the title definitely caught my attention. The author's approach is all about empathy, collaboration, and helping people unlock their potential. I've already started implementing some of the tips and strategies, and I'm already seeing a difference in how my team is responding." - Lizz K., Lead Consultant
 
-"'Be Less Shit' is the perfect coaching book for anyone who wants to improve their skills without feeling like they're being told what to do. The author's approach is all about building trust, fostering open communication, and working together to achieve goals. Highly recommend!" - Mark R., Business Owner
+"'Be Less Shit' is the perfect coaching book for anyone who wants to improve their skills without feeling like they're being told what to do. The author's approach is all about building trust, fostering open communication, and working together to achieve goals. Highly recommend!" - Matt S., Outdoor Educator
 
-"I love how the author uses humor and real-world examples to make coaching feel less daunting. 'Be Less Shit' is a must-read for anyone who wants to become a better coach, but isn't sure where to start." - Michelle K., Human Resources Manager
+"I love how the author uses humor and real-world examples to make coaching feel less daunting. 'Be Less Shit' is a must-read for anyone who wants to become a better coach, but isn't sure where to start." - Alex B., Project Manager
 
-"I read 'Be Less Shit' in one sitting and was blown away by how practical and relatable it is. The author's approach is all about meeting people where they're at and helping them grow, rather than forcing them to change. I'll definitely be recommending this book to my colleagues!" - Alex L., Consultant.
+"I read 'Be Less Shit' in one sitting and was blown away by how practical and relatable it is. The author's approach is all about meeting people where they're at and helping them grow, rather than forcing them to change. I'll definitely be recommending this book to my colleagues!" - Frank C., Head of People Development.
 
 
 # The background to the "Be Less Shit" approach
