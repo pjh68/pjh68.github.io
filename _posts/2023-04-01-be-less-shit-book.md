@@ -8,6 +8,8 @@ contributors: ""
 excerpt_separator: <!--more-->
 ---
 
+> **Check the date**. And read the [follow up post]({% link _posts/2023-04-03-be-less-shit-the-truth.md %}).
+
 The Get Real Group are excited to announce the launch of their new business book **Be Less Shit** - _No Excuses, No Bullshit: The Brutally Honest Coaching Method_, comming soon to Amazon, Barnes & Noble and all airport bookshops.
 
 Drawing on their extensive experience as a coaches and business leaders, The Get Real Group offer a fresh and engaging approach to coaching that is both practical and insightful. Unlike other coaching books that focus on directive approaches, "Be Less Shit" encourages a more collaborative and empathetic approach to coaching.
@@ -22,7 +24,7 @@ The book's title, "Be Less Shit", may be provocative, but it reflects the author
 
 "I've read a lot of coaching books over the years, but 'Be Less Shit' really stands out. It's like Radical Candor but less aggressive and more collaborative. The practical tips and examples are incredibly helpful, and the writing style is engaging and easy to read." - Andy E., Outdoor Tutor
 
-"I wish I had read this book sooner! It's such a refreshing take on coaching, and the title definitely caught my attention. The author's approach is all about empathy, collaboration, and helping people unlock their potential. I've already started implementing some of the tips and strategies, and I'm already seeing a difference in how my team is responding." - Lizz K., Lead Consultant
+"I wish I had read this book sooner! It's such a refreshing take on coaching, and the title definitely caught my attention. The author's approach is all about empathy, collaboration, and helping people unlock their potential. I've already started implementing some of the tips and strategies, and I'm already seeing a difference in how my team is responding." - Liz K., Lead Consultant
 
 "'Be Less Shit' is the perfect coaching book for anyone who wants to improve their skills without feeling like they're being told what to do. The author's approach is all about building trust, fostering open communication, and working together to achieve goals. Highly recommend!" - Matt S., Outdoor Educator
 
