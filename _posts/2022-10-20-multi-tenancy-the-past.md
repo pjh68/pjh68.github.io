@@ -51,7 +51,7 @@ Salesforce is again an interesting example. Their approach is to quantize work a
 
 IaaS providers take a similar limits based approach for many of their cloud-native services (e.g. AWS Lambda). AWS's playbook is to launch a new service with quite tight limits, and expand those limits as they get more confident managing bigger workloads without contention. 
 
-For virtual machines (e.g. AWS EC2), noisy neighbours have been a common complaint for years. The solution appears to be probability: have a large scale and randomly allocate virtual machines to hosts. This lowers the chance of being on a host with lots of noisy neighbours. It's still a risk, and a number of people have developed tactics to detect performce-degraded hosts and to re-roll the dice by spinning up a new machine. 
+For virtual machines (e.g. AWS EC2), noisy neighbours have been a common complaint for years. The solution appears to be probability: have a large scale and randomly allocate virtual machines to hosts. This lowers the chance of being on a host with lots of noisy neighbours. It's still a risk, and a number of people have developed tactics to detect performance-degraded hosts and to re-roll the dice by spinning up a new machine. 
 
 
 ## Summary
