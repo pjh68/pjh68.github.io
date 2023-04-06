@@ -37,8 +37,9 @@ https://martinfowler.com/bliki/ConwaysLaw.html
 https://martinfowler.com/bliki/DevOpsCulture.html
  
 
-
-
+Radical Candor - video intro is even better (link?)
+20 minutes of Kim Scott talking about Radical Candor. Highly recommend watching this, and a much smaller investment in your time than reading her book!
+https://www.youtube.com/watch?app=desktop&v=4yODalLQ2lM&feature=share
 
 #Innovation, start-ups, corporate innovation
 
@@ -50,4 +51,7 @@ Eric Rees - lean startup
 Crossing the chasm
 
 If you are innovating in a professional servies firm: Laura Epsom - Leading Professionals.
+
+Professional service - Laura Empson: Leading Professionals (youtube video also great)
+https://youtu.be/c-iursDWQgI
 
