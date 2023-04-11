@@ -35,7 +35,7 @@ Environments may carry a cost, even when not doing anything useful. Some service
 
 This isn't because we're cheap. I'll happily direct a team to spend more on infrastructure to solve problems (and our AWS bill is a testament to that).
 
-The reason for caring aout scale-to-zero is that it brings freedom. I have seen too many examples of teams bringing in convolutions to their environment plans to compensate for high fixed costs. This leads to leaking of concerns (e.g. performance contention, security risks) and a whole word of additional admin. For most teams, I don't believe worrying about how well they can pack and utilised a particular services is a good use of their time. So we explicitly favour scale-to-zero architectures. 
+The reason for caring aout scale-to-zero is that it brings freedom. I have seen too many examples of teams bringing in convolutions to their environment plans to compensate for high fixed costs. This leads to leaking of concerns (e.g. performance contention, security risks) and a whole world of additional admin. For most teams, I don't believe worrying about how well they can pack and utilise a particular services is a good use of their time. So we explicitly favour scale-to-zero architectures. 
 
 ## Environment isolation (account/subscription mapping)
 One side note, that is worth mentioning. Cloud accounts (or subscriptions, depending on your cloud provider's terminology) can carry an overhead. We tend to therefore cluster multiple environments inside an account. But we do use accounts as our highest level of isolation. 
