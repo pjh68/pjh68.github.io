@@ -7,9 +7,6 @@ author: "Peter Hempsall"
 contributors: ""
 ---
 
-> This post should be considered a first draft. Expect ammendments and updates.
-
-
 This is the second post in a 3 part series about the past, present and future of multi-tenancy architectures for enterprise software products. I am a strong believer that understanding where we have come from, and how we got here, helps us predict where are going.
 
 This post continues the story from [Part 1]({% link _posts/2022-10-20-multi-tenancy-the-past.md %})
