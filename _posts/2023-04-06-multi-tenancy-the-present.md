@@ -42,16 +42,16 @@ From here, it's a small logic leap to realise:
 1. There is nothing that says we only need to have one Production environment
 2. We have everything we need to create Production environments on demand
 
-So now we have more options of just how far we can shove the client access logic down in the stack. The logical end point: cloud account level isolation. 
+So now we have more options of just how far we can shove the customer access logic down in the stack. The logical end point: cloud account level isolation. 
 
 We can now remove mutli-tenant logic from our application, and with it a whole class of security risks. 
 
-This also bring two other automatic benefits: performance isolation AND automatic per-client cost visibility.
+This also bring two other automatic benefits: performance isolation AND automatic per-customer cost visibility.
 
 This is the present we are living in.
 
 ## Where next?
-Part 3 is going to cover the future. The near future. Specifically where I believe B2B enterprise software products are heading, the pitfalls and challenges on the way, and what needs to be true for this to become a reality.
+[Part 3]({% link _posts/2023-07-16-multi-tenancy-the-future.md %}) covers the future. The near future. Specifically where I believe B2B enterprise software products are heading, the pitfalls and challenges on the way, and what needs to be true for this to become a reality.
 
 
 
