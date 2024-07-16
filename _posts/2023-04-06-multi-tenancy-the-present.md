@@ -51,7 +51,7 @@ This also bring two other automatic benefits: performance isolation AND automati
 This is the present we are living in.
 
 ## Where next?
-[Part 3]({% link _posts/2023-07-16-multi-tenancy-the-future.md %}) covers the future. The near future. Specifically where I believe B2B enterprise software products are heading, the pitfalls and challenges on the way, and what needs to be true for this to become a reality.
+[Part 3]({% link _posts/2024-07-16-multi-tenancy-the-future.md %}) covers the future. The near future. Specifically where I believe B2B enterprise software products are heading, the pitfalls and challenges on the way, and what needs to be true for this to become a reality.
 
 
 
