@@ -20,7 +20,7 @@ Let’s start with the deep concentration part.
 
 When working with a code base, you’re trying to solve a problem. And you need to understand the context of the codebase to even begin to start solving the problem.
 
-So the first thing a developer has to do is* load the problem space into their head. *And once loaded into their head, they need to keep it there. This can be a little bit like building a house of cards: ***it takes hours to build understanding and second to destroy***.
+So the first thing a developer has to do is load the problem space into their head. And once loaded into their head, they need to keep it there. This can be a little bit like building a house of cards: ***it takes hours to build understanding and only a second to destroy***.
 
 It is the combination of the fragile nature of this ephemeral knowledge and the time it can take an individual to get into the flow that makes distractions and interruptions so costly.
 
