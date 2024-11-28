@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What been missed in remote vs return-to-office? The \“first\” in remote-first"
+title: What been missed in remote vs return-to-office? The “first” in remote-first
 category: "engineering-management"
 tags: people, work, remote, location, office
 author: "Peter Hempsall"
