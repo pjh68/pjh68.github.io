@@ -61,7 +61,7 @@ Personally I’ve found that after 2-3 weeks of working from home, I’m itching
 
 To some extent I’ve personally mitigated this by making sure I see people in the evening. I appreciate this is a privilege that comes from not having caring responsibilities and having my life configured in such a way this is relatively easy. Certainly compared to my 20s when my whole life was configured around working hard, partying hard and then getting on the tube home - I didn’t know anyone near where I actually lived.
 
-This could be considered an unbundling, of life from work. I’ve feel that loses something. I’m not sure I like it. And I know others don’t like it and have voted with their feet. This is a hard one to square. 
+This could be considered an unbundling, of life from work. I feel that loses something. I’m not sure I like it. And I know others don’t like it and have voted with their feet. This is a hard one to square. 
 
 
 ## Insight #6: You can build personal connections remotely, but you don’t have the same handy tools as the real world
