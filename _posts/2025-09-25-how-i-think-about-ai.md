@@ -25,7 +25,7 @@ Here’s my simplified view of how generative AI for software development works:
 
 Of all of this, the assumed one-off costs are my biggest concern - we need to run with this for longer to understand where the split between one-off and ongoing effort lies. 
 
-The data is inconclusive, and even more worrying the self-reported data is inaccurate: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+The data is inconclusive, and even more worrying the self-reported data is inaccurate: [metr](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 
 
 There is also likely to be significant challenges as code bases scale. We know this is true for software teams today: progress slows as the product gets bigger, and lots of investments teams make is in trying to keep this curve of complexity of change growing as slowly as possible. AI tools seem to be best in green-field settings or making limited, well-scope changes. So AI may, through sloppy application, make the change curve growth rate worse and struggle as it grows.
@@ -35,7 +35,7 @@ We also have mass uncertainty on the supply side. Pricing, availability / respon
 And so for me, the key questions of “does it actually help?” and “should we change how we organise our teams?” remain fully unanswered. I cannot even, at this stage, predict a trajectory and I believe those that are claiming “it will inevitably…” are picking a version of the future they wish to be true without evidence. And this is probably the no.1 thing that annoys me about the current state of the world: The burden of proof is all backwards with AI. Everyone has such FOMO there is a prevalent belief that AI will be amazing. So now when it’s not amazing it must because we’re holding it wrong?
 
 From an engineering leadership perspective, I am a health sceptic. Experimentation is necessary, but if those experiments fail we will learn and move on. I fundamentally disagree with the position that it is inevitable. 
-I have a lot of time for this rage piece: https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding
+I have a lot of time for this rage piece: [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 
 We’re also seeing something interesting: individuals’ personal journey through the hype curve. Working in a large organisation with a diverse set of engineering teams solving different problems in different contexts means we see this playing out in real-time multiple times a month. People love talking about their AI journeys on Slack…  We also have the per-developer token usage data to back it up (not an entirely accurate picture as doesn’t include out-of-work side projects that a lot of developers do). I don’t think we yet have enough time series data to be confident in drawing conclusions, and we’ve had summer holidays making the data noisy… but right now developers are yo-yoing up, then down, our token usage league table in what appears to be high correlation with their Slack announced drinking of the Kool-aid and then subsequent cooling as their posts contain more caveats… 
 
