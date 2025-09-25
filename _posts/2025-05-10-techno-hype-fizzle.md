@@ -2,7 +2,7 @@
 layout: post
 title: The fizzling of techno hype to a humdrum reality
 category: "innovation"
-tags: innovation, tech, hype
+tags: innovation, tech, hype, ai
 author: "Peter Hempsall"
 contributors: ""
 ---
