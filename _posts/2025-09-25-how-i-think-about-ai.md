@@ -15,10 +15,10 @@ Here’s my simplified view of how generative AI for software development works:
 - It’s a probabilistic dartboard. It will generate “something”. 
     - If you can tolerate high variance, or you didn’t have a particularly specific outcomes in mind, great.
     - If you want to claim that this tech is great: after all the darts have been thrown, pick your favourite dart, draw bullseye around this dart.
-- Prompt engineering can, with variable outcome, coerce the output towards your desired path
-    - It may take multiple cycles, taking up valuable time
+- Prompt engineering can, with variable outcome, coerce the output towards your desired path.
+    - It may take multiple cycles, taking up valuable time.
     - It may not work - you may run out of context window before you’ve bullied it into what you want, it might be unbelievably stubborn and sometimes you get a spectacularly divergent explosion or total loss of context.
-- Cognitive biases results in lots of this effort being discounted as one-off costs, either in personal learning or setting up rule files
+- Cognitive biases results in lots of this effort being discounted as one-off costs, either in personal learning or setting up rule files.
 
 
 
@@ -57,6 +57,6 @@ Having said all that negative stuff, I do think there are some things that are s
 
 So it’s a better search engine and personalised technical documentation. Is it sufficient? No, people are still going to go to source material. Does it save the wading and cut through the enshitificaiton of the web? Yes, for now.
 
-If you forced me to make a prediction, right now It’s: Some of this will be helpful tooling. We will see marginal improvements in productivity (approx 10% or less on aggregate) and we will be spending more on tooling. Our total cost base will either go up, or stay around the same. 
+If you forced me to make a prediction, right now it’s: Some of this will be helpful tooling. We will see marginal improvements in productivity (approx 10% or less on aggregate) and we will be spending more on tooling. Our total cost base will either go up, or stay around the same. 
 
 So yeah, I’m still in the [fizzling of techno hype]({% link _posts/2025-05-10-techno-hype-fizzle.md %}) camp.
