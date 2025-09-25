@@ -39,7 +39,7 @@ I have a lot of time for this rage piece: https://mikelovesrobots.substack.com/p
 
 We’re also seeing something interesting: individuals’ personal journey through the hype curve. Working in a large organisation with a diverse set of engineering teams solving different problems in different contexts means we see this playing out in real-time multiple times a month. People love talking about their AI journeys on Slack…  We also have the per-developer token usage data to back it up (not an entirely accurate picture as doesn’t include out-of-work side projects that a lot of developers do). I don’t think we yet have enough time series data to be confident in drawing conclusions, and we’ve had summer holidays making the data noisy… but right now developers are yo-yoing up, then down, our token usage league table in what appears to be high correlation with their Slack announced drinking of the Kool-aid and then subsequent cooling as their posts contain more caveats… 
 
-I’d go so far to say the typical developer hype-curve is:
+My "totally unfair and exagerated for effect" portrait of a developer hype curve journey is something like:
 1. Play around with chat based workflows, maybe find useful, maybe not
 2. Go all in on something more substantive like Cline or alternatives 
 3. Sink a lot of time but be amazed
