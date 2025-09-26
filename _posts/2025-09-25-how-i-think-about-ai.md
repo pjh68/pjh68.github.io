@@ -51,9 +51,12 @@ My "totally unfair and exagerated for effect" portrait of a developer hype curve
 
 Interesting this fits the existing pattern we’ve seen so many times with new technology hype. There is a curious bias in software development towards abstraction - the thrill of building tools that will built tools so you don’t have to build things yourself. I can’t help but feel this is catching people out. I’m also getting flashbacks to Kubernetes and microservices - yes, both of these are useful technologies when applied to the right situation, but I’ve seen a lot of organisations burned by leaping on the hype through FOMO or CV-driven tech strategy. 
 
-Having said all that negative stuff, I do think there are some things that are sticking:
+Having said all that negative stuff, and having caught up with some of the more evangelical developers, I do think there are some things that are sticking:
 1. Language guide for experienced developers using a new language. 
-2. Replacement for stack overflow. Unsure how sustainable this is.
+2. A replacement for stack overflow. Unsure how sustainable this is.
+3. A good documentation tool, to help developers search for answers about their own codebase
+4. It does seem to give developers more confidence at working across the codebase
+5. A better [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 So it’s a better search engine and personalised technical documentation. Is it sufficient? No, people are still going to go to source material. Does it save the wading and cut through the enshitificaiton of the web? Yes, for now.
 
